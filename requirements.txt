@@ -11,8 +11,13 @@ jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 Markdown==3.7
 packaging==24.2
+psycopg==3.2.6
+psycopg-binary==3.2.6
+psycopg-pool==3.2.6
 PyYAML==6.0.2
 referencing==0.36.2
 rpds-py==0.24.0
 sqlparse==0.5.3
+typing_extensions==4.13.2
 uritemplate==4.1.1
+whitenoise==6.9.0
